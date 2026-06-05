@@ -3,6 +3,7 @@
 > The ultimate God-Mode Obsidian PKM skill for AI agents.
 > Full vault audit, graph optimization, MOC generation, rollback safety, and complete Obsidian formatting knowledge — in one skill.
 
+[![skills.sh](https://skills.sh/b/PhantomCodeGhost/obsidian-god)](https://skills.sh/PhantomCodeGhost/obsidian-god)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-1.0-blue)](https://agentskills.io/specification)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-green)](https://docs.anthropic.com/claude-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
